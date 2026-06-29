@@ -1,4 +1,4 @@
-# 
+# Leve YNAB predefinições para Mac OS | Ultimato YNAB predefinições para PC Windows. Com agendamento de relatórios e processamento de pagamentos — otimizado para máximo desempenho em cada plataforma.
 
 
 
